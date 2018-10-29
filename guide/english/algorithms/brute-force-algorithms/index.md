@@ -3,10 +3,7 @@ title: Brute Force Algorithms
 ---
 ## Brute Force Algorithms
 
-Brute Force Algorithms refers to a programming style that does not include any shortcuts to improve performance, but instead relies on sheer computing power to try all possibilities until the solution to a problem is found. 
-
-A classic example is the traveling salesman problem (TSP). Suppose a salesman needs to visit 10 cities across the country. How does one determine the order in which cities should be visited such that the total distance traveled is minimized? The brute force solution is simply to calculate the total distance for every possible route and then select the shortest one. This is not particularly efficient because it is possible to eliminate many possible routes through clever algorithms. 
-
+Brute Force. The Brute Force is a revolutionary tool for forcible entry that is also designed to marry with our Tri-Bar (or any halligan). This tool is a sledge hammer with benefits. It has a sledge head for driving the Tri-Bar, a chisel/axe edge for cutting/ripping and a marrying slot for the Tri-Bar
 Another example: 5 digit password, in the worst case scenario would take 10<sup>5</sup> tries to crack.
 
 The time complexity of brute force is <b> O(n*m) </b>. So, if we were to search for a string of 'n' characters in a string of 'm' characters using brute force, it would take us n * m tries.
